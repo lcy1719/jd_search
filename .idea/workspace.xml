@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce2fba56-cb08-47de-a079-bcccbe79b512" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKWN7YU6pPcIFQEl60atq724Ng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EsApplication">
+    <configuration name="HtmlParseUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcy.es.utils.HtmlParseUtils" />
+      <module name="es-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcy.es.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplicationTests.addList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcy.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lcy.es" />
+      <option name="MAIN_CLASS_NAME" value="com.lcy.es.EsApplicationTests" />
+      <option name="METHOD_NAME" value="addList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplicationTests.deleteDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcy.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lcy.es" />
+      <option name="MAIN_CLASS_NAME" value="com.lcy.es.EsApplicationTests" />
+      <option name="METHOD_NAME" value="deleteDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplicationTests.ge2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcy.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lcy.es" />
+      <option name="MAIN_CLASS_NAME" value="com.lcy.es.EsApplicationTests" />
+      <option name="METHOD_NAME" value="ge2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplicationTests.getDocumentBystation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcy.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lcy.es" />
+      <option name="MAIN_CLASS_NAME" value="com.lcy.es.EsApplicationTests" />
+      <option name="METHOD_NAME" value="getDocumentBystation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="es-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcy.es.EsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EsApplicationTests.ge2" />
+        <item itemvalue="Application.HtmlParseUtils" />
+        <item itemvalue="JUnit.EsApplicationTests.getDocumentBystation" />
+        <item itemvalue="JUnit.EsApplicationTests.addList" />
+        <item itemvalue="JUnit.EsApplicationTests.deleteDoc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2fba56-cb08-47de-a079-bcccbe79b512" name="Default Changelist" comment="" />
+      <created>1586484722193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586484722193</updated>
+      <workItem from="1586484726203" duration="22099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="332" key="GridCell.Tab.0.bottom" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.0.center" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.0.left" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.0.right" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.1.bottom" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.1.center" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.1.left" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state width="1876" height="332" key="GridCell.Tab.1.right" timestamp="1586511042938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586511042938" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586505306044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586505306044" />
+  </component>
+</project>
